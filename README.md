@@ -3,7 +3,7 @@
 **Title of the paper:** Gradient boosting reveals spatially diverse cholesterol gene signatures in colon cancer
 
 
-**Authors:** Xiuxiu Yang<sup>1†</sup>, Debolina Chatterjee<sup>1†</sup>, Justin L Couetil^2, Ziyu Liu3, Valerie D Ardon2, Chao Chen4, Jie Zhang2, Kun Huang1,2,5, Travis S Johnson1,5,6*
+**Authors:** Xiuxiu Yang<sup>1†</sup>, Debolina Chatterjee<sup>1†</sup>, Justin L Couetil<sup>2</sup>, Ziyu Liu<sup>3</sup>, Valerie D Ardon<sup>2</sup>, Chao Chen<sup>4</sup>, Jie Zhang<sup>2</sup>, Kun Huang<sup>1,2,5</sup>, Travis S Johnson<sup>1,5,6*</sup>
 
 
 1. Department of Biostatistics and Health Data Science, Indiana University School of Medicine, Indianapolis, IN 46202, USA
