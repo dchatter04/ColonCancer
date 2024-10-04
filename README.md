@@ -3,19 +3,19 @@
 **Title of the paper:** Gradient boosting reveals spatially diverse cholesterol gene signatures in colon cancer
 
 
-**Authors:** Xiuxiu Yang, Department of Biostatistics and Health Data Science, Indiana University School of Medicine, Indianapolis, IN 46202, USA
-        Debolina Chatterjee1†, Department of Biostatistics and Health Data Science, Indiana University School of Medicine, Indianapolis, IN 46202, USA
-        Justin L Couetil, Department of Medical and Molecular Genetics, Indiana University School of Medicine, Indianapolis, IN 46202, USA 
-        Ziyu Liu, Department of Statistics, Purdue University, West Lafayette, IN 47906, USA
-        Valerie D Ardon, Department of Medical and Molecular Genetics, Indiana University School of Medicine, Indianapolis, IN 46202, USA
-        Chao Chen, Department of Biomedical Informatics, Stony Brook University, Stony Brook, NY11733, USA
-        Jie Zhang, Department of Medical and Molecular Genetics, Indiana University School of Medicine, Indianapolis, IN 46202, USA
-        Kun Huang, Department of Biostatistics and Health Data Science; Department of Medical and Molecular Genetics; Melvin and Bren Simon Comprehensive Cancer Center,
+**Authors:** 
+        * Xiuxiu Yang, Department of Biostatistics and Health Data Science, Indiana University School of Medicine, Indianapolis, IN 46202, USA
+        * Debolina Chatterjee1†, Department of Biostatistics and Health Data Science, Indiana University School of Medicine, Indianapolis, IN 46202, USA
+        * Justin L Couetil, Department of Medical and Molecular Genetics, Indiana University School of Medicine, Indianapolis, IN 46202, USA 
+        * Ziyu Liu, Department of Statistics, Purdue University, West Lafayette, IN 47906, USA
+        * Valerie D Ardon, Department of Medical and Molecular Genetics, Indiana University School of Medicine, Indianapolis, IN 46202, USA
+        * Chao Chen, Department of Biomedical Informatics, Stony Brook University, Stony Brook, NY11733, USA
+        * Jie Zhang, Department of Medical and Molecular Genetics, Indiana University School of Medicine, Indianapolis, IN 46202, USA
+        * Kun Huang, Department of Biostatistics and Health Data Science; Department of Medical and Molecular Genetics; Melvin and Bren Simon Comprehensive Cancer Center,
                    Indiana University School of Medicine, Indianapolis, IN 46202, USA
-        Travis S Johnson
-        Department of Biostatistics and Health Data Science; Melvin and Bren Simon Comprehensive Cancer Center 
-        Indiana University School of Medicine, Indianapolis, IN 46202, USA;
-        Indiana Biosciences Research Institute, Indianapolis, IN 46202, USA
+        * Travis S Johnson, Department of Biostatistics and Health Data Science; Melvin and Bren Simon Comprehensive Cancer Center 
+                            Indiana University School of Medicine, Indianapolis, IN 46202, USA;
+                            Indiana Biosciences Research Institute, Indianapolis, IN 46202, USA
 
 
 **Correspondence:** Travis S Johnson (johnstrs@iu.edu)
