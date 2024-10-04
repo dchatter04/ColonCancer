@@ -1,7 +1,4 @@
-# ColonCancer
-
-**Title of the paper:** **Gradient boosting reveals spatially diverse cholesterol gene signatures in colon cancer**
-
+# Gradient boosting reveals spatially diverse cholesterol gene signatures in colon cancer
 
 **Authors:** Xiuxiu Yang<sup>1†</sup>, Debolina Chatterjee<sup>1†</sup>, Justin L Couetil<sup>2</sup>, Ziyu Liu<sup>3</sup>, Valerie D Ardon<sup>2</sup>, Chao Chen<sup>4</sup>, Jie Zhang<sup>2</sup>, Kun Huang<sup>1,2,5</sup>, Travis S Johnson<sup>1,5,6*</sup>
 
