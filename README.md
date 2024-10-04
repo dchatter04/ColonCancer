@@ -27,4 +27,4 @@ Colon cancer (CC) is the second most common cause of cancer deaths and the fourt
 
 ![Title](https://github.com/dchatter04/ColonCancer/blob/main/workflow.png)
 
-![Title](https://github.com/dchatter04/ColonCancer/blob/main/workflow.png)
+<img src="https://github.com/dchatter04/ColonCancer/blob/main/workflow.png" title="Title" width="500">
