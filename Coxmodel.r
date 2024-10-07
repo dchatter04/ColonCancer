@@ -1,6 +1,5 @@
 #set working directory
-setwd("C:\\")
-setwd("/Users/dchatter/Documents/Frontiers_submission_Xiuxiu/Colon_data")
+setwd("./path/to/Colon_data")
 
 library("survival")
 TCGA_COAD<-read.csv("TCGA_COAD_clinic_clean.csv")
