@@ -1,7 +1,7 @@
 rm(list=ls())
 #set working directory
 #setwd("./path/to/Colon_data")
-setwd("/Users/dchatter/Documents/Frontiers_submission_Xiuxiu/Colon_data/Colon_data")
+setwd("~/Colon_data")
 library("survival")
 TCGA_COAD<-read.csv("TCGA_COAD_clinic_clean.csv")
 Used_genes <- data.frame(colnames(TCGA_COAD)[2:76])
