@@ -1,6 +1,6 @@
 #Randomforest_survival curve
 #set working directory
-setwd(" ")
+setwd("~/Colon_data")
 
 library(survival)
 
