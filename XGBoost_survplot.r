@@ -3,7 +3,7 @@
 rm(list=ls())
 #Cox model_survival plot
 #set working directory
-setwd("/Users/dchatter/Documents/Frontiers_submission_Xiuxiu/Suvival_plot")
+setwd("~/Colon_data")
 
 
 library(survival)
