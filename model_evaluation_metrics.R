@@ -34,7 +34,6 @@ p <-ggroc(res,legacy.axes = TRUE)+
 
 ggsave(p,file="ROCcurve_GSE17538.pdf",height=6,width=6)
 # xbg----
-AUC(XGBoost,event)
 a1 <- roc(event,XGBoost)
 auc<- auc(a1)
 prauc <- PRAUC(XGBoost,event)
@@ -120,7 +119,6 @@ p1 <-ggroc(res,legacy.axes = TRUE)+
 ggsave(p1,file="ROCcurve_GSE39582.pdf",height=6,width=6)
 
 # xbg----
-AUC(XGBoost,event)
 a1 <- roc(event,XGBoost)
 auc<- auc(a1)
 prauc <- PRAUC(XGBoost,event)
@@ -208,7 +206,6 @@ ggsave(p2,file="ROCcurve_GSE33113.pdf",height=6,width=6)
 
 
 # xbg----
-AUC(XGBoost,event)
 a1 <- roc(event,XGBoost)
 auc<- auc(a1)
 prauc <- PRAUC(XGBoost,event)
