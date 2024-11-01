@@ -1,6 +1,6 @@
 #Lasso model_survival plot
 #set working directory 
-setwd(" ")
+setwd("~/Colon_data")
 
 library(survival)
 
