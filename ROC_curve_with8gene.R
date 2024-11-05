@@ -1,8 +1,7 @@
 rm(list=ls())
 #ROC curve for testing dataset
 #set working directory
-#setwd("./path/to/Colon_data")
-setwd("/Users/dchatter/Documents/Frontiers_submission_Xiuxiu/Colon_data/Colon_data")
+setwd("./path/to/Colon_data")
 
 library(pROC)
 library(ggplot2)
